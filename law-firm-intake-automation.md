@@ -1,16 +1,16 @@
 ---
 layout: default
 title: "Law Firm Intake Automation: What to Automate First"
-description: "Where to start with intake automation at a small law firm, how to map your process first, and which steps usually pay back fastest."
+description: "Where to start with intake automation at a small law firm, how to map your process first, and which steps to look at first."
 permalink: /law-firm-intake-automation/
 ---
 # Law firm intake automation: what to automate first
 
-Most boutique firms do not have a people problem. They have a process problem. The same steps happen by hand every time a lead arrives, a matter opens, or a report is due. Automation helps only when it is aimed at the right step.
+Wazan's view is that many boutique firms have a process problem more than a people problem. The same steps happen by hand every time a lead arrives, a matter opens, or a report is due. Automation helps only when it is aimed at the right step.
 
 ## Map the process before choosing a tool
 
-Write down what happens from the moment a lead first contacts you to the moment a matter is open. For each step, note who does it, how long it takes and which software it touches. Two or three hours with the person who handles intake usually shows where the time leaks.
+Write down what happens from the moment a lead first contacts you to the moment a matter is open. For each step, note who does it, how long it takes and which software it touches. Two or three hours with the person who handles intake can show where the time leaks.
 
 ## Common candidates, in a sensible order
 
