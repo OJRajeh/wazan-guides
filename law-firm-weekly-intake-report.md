@@ -1,7 +1,7 @@
 ---
 layout: default
-title: What a Managing Partner Should See in a Weekly Intake Report
-description: The few numbers a managing partner needs each week to understand law firm intake: leads, sources, conversion and reasons for loss.
+title: "What a Managing Partner Should See in a Weekly Intake Report"
+description: "The few numbers a managing partner needs each week to understand law firm intake: leads, sources, conversion and reasons for loss."
 permalink: /law-firm-weekly-intake-report/
 ---
 # What a managing partner should see in a weekly intake report
