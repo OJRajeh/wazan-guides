@@ -21,7 +21,7 @@ Write down what happens from the moment a lead first contacts you to the moment 
 
 ## Automate around the tools you already run
 
-A new system that replaces your practice-management software is a large project. Connecting intake to Clio, MyCase or a spreadsheet you already use is smaller and easier to reverse. Start there.
+A new system that replaces your practice-management software is a large project. Connecting intake to the practice-management system or spreadsheet you already use is smaller and easier to reverse. Start there.
 
 ## Keep a person in the loop where it matters
 
@@ -31,4 +31,4 @@ Automation should prepare and route. Decisions about whether to take a matter, c
 
 Pick one number before you start, such as time from first contact to first callback, or share of leads that arrive with every required field filled. Measure it before and after. If it did not move, the step you automated was not the bottleneck.
 
-Wazan maps this for free before any contract. [Reserve a free audit](https://wazan.ai) or write to contact@wazan.ai.
+Wazan offers a free audit that maps this before any contract. [Reserve a free audit](https://wazan.ai).
