@@ -1,0 +1,8 @@
+title: Wazan Guides
+description: Practical guides on intake, workflow and software spend for boutique law firms, from Wazan.
+url: https://ojrajeh.github.io
+baseurl: /wazan-guides
+theme: minima
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
