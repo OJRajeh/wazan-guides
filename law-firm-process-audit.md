@@ -1,7 +1,7 @@
 ---
 layout: default
-title: What a Free Law Firm Process Audit Should Cover
-description: What to expect from a workflow audit for a small law firm: intake, matter opening, reporting and software spend, and how to judge the result.
+title: "What a Free Law Firm Process Audit Should Cover"
+description: "What to expect from a workflow audit for a small law firm: intake, matter opening, reporting and software spend, and how to judge the result."
 permalink: /law-firm-process-audit/
 ---
 # What a free law firm process audit should cover
