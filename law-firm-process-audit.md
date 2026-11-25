@@ -31,4 +31,4 @@ A short written summary that names the main problem in plain language, shows the
 
 Gather your intake form, a list of the software you pay for, and one example of a matter from first contact to open. Thirty minutes with the person who handles intake is often enough.
 
-Wazan offers a free audit for boutique law firms: before any contract or invoice you get a tailored review of how your practice runs, the core problem named and the fix beside it. You can walk away afterward. [Reserve a free audit](https://wazan.ai) or write to contact@wazan.ai.
+Wazan offers a free audit for boutique law firms: before any contract or invoice you get a tailored review of how your practice runs, the core problem named and the fix beside it. You can walk away afterward. [Reserve a free audit](https://wazan.ai).
