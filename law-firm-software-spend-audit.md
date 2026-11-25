@@ -18,7 +18,7 @@ For each tool, write down how many seats you pay for, the plan tier and the pric
 
 ## Step 3: measure use
 
-Ask each tool for its usage or last-login report, or ask the people who use it. For each tool, estimate the share of paid seats and paid features that are in real use. This is utilization. At Wazan we have seen firms paying $400+ a month for a tool at roughly 40% utilization. That is a pattern we have seen in practice, not an industry average.
+Ask each tool for its usage or last-login report, or ask the people who use it. For each tool, estimate the share of paid seats and paid features that are in real use. This is utilization. A tool that is mostly unused, or that is paid for at a higher tier than anyone needs, is the first candidate to right-size or cut.
 
 ## Step 4: sort into three groups
 
@@ -34,4 +34,4 @@ Contact vendors well before the renewal date. Having usage numbers in hand gives
 
 Put a yearly review on the calendar, and ask whoever signs up for a new tool to log it in one shared list.
 
-Wazan's free audit includes a software spend review: we check what you pay for against what your team uses and flag where to renegotiate or cut, and we can lead the renegotiation if you want. [Reserve a free audit](https://wazan.ai) or write to contact@wazan.ai.
+Wazan's free audit includes a software spend review: it compares what you pay for against what your team uses and flags where to renegotiate or cut. [Reserve a free audit](https://wazan.ai).
