@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Law Firm Intake Automation: What to Automate First
-description: Where to start with intake automation at a small law firm, how to map your process first, and which steps usually pay back fastest.
+title: "Law Firm Intake Automation: What to Automate First"
+description: "Where to start with intake automation at a small law firm, how to map your process first, and which steps usually pay back fastest."
 permalink: /law-firm-intake-automation/
 ---
 # Law firm intake automation: what to automate first
