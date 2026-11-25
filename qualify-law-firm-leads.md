@@ -37,7 +37,7 @@ Write the rule down before you build the form. Common conditions are matter type
 
 ## Put the answers where your team already works
 
-Qualification only helps if the answers land in the tool your firm uses. Fields should go straight into your practice-management system, such as Clio or MyCase, or into a spreadsheet if that is what you run today. Retyping answers from an email defeats the purpose.
+Qualification only helps if the answers land in the tool your firm uses. Ideally, fields go straight into your practice-management system, or into a spreadsheet if that is what you run today. Retyping answers from an email defeats the purpose.
 
 ## Record the source on every lead
 
@@ -47,4 +47,4 @@ Add the referral source as a required field with a fixed list of options, not fr
 
 Look at how many leads failed qualification and why, and whether the questions you added changed how many leads turned into matters. Remove any question nobody uses.
 
-Wazan builds intake like this for boutique law firms, sized to the practice areas the firm actually handles. [See how it works](https://wazan.ai) or write to contact@wazan.ai.
+Wazan builds custom intake for boutique law firms, scoped to the practice areas and tools each firm uses. What connects to which system is decided per firm. [See what Wazan does](https://wazan.ai).
