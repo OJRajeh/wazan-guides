@@ -34,4 +34,4 @@ A Monday morning email works well because the week's priorities are still open. 
 
 Pick one change per month based on the numbers, such as following up faster on one lead source, and check the next month's report to see if it helped.
 
-Wazan sets up reports like this for boutique firms as part of its intake and operations work. [Learn more](https://wazan.ai) or write to contact@wazan.ai.
+Wazan sets up reports like this for boutique firms as part of its intake and operations work. [Learn more](https://wazan.ai).
