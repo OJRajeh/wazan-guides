@@ -13,4 +13,4 @@ Short, practical guides for boutique law firms on intake, workflow and software 
 - [What a managing partner should see in a weekly intake report](/wazan-guides/law-firm-weekly-intake-report/)
 - [What a free law firm process audit should cover](/wazan-guides/law-firm-process-audit/)
 
-Questions: contact@wazan.ai
+More about Wazan: [wazan.ai](https://wazan.ai)
