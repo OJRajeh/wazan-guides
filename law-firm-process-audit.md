@@ -6,7 +6,7 @@ permalink: /law-firm-process-audit/
 ---
 # What a free law firm process audit should cover
 
-A process audit looks at how your practice actually runs, names the core problem and puts a fix next to it. Before you commit money to software or consultants, it should tell you where time is being lost.
+A process audit looks at how your practice actually runs, names the core problem and puts a fix next to it. Before you commit money to software or consultants, it should help show where time is being lost.
 
 ## What a good audit looks at
 
@@ -29,6 +29,6 @@ A short written summary that names the main problem in plain language, shows the
 
 ## How to prepare
 
-Gather your intake form, a list of the software you pay for, and one example of a matter from first contact to open. Thirty minutes with the person who handles intake is often enough.
+Gather your intake form, a list of the software you pay for, and one example of a matter from first contact to open. Thirty minutes with the person who handles intake may be enough to start.
 
 Wazan offers a free audit for boutique law firms: before any contract or invoice you get a tailored review of how your practice runs, the core problem named and the fix beside it. You can walk away afterward. [Reserve a free audit](https://wazan.ai).
